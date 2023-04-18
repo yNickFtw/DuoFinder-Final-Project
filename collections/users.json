@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "643b3ec41163b54d51df1708"
+  },
+  "nickname": "yNickFtw",
+  "email": "ynickftw@gmail.com",
+  "password": "$2a$10$q8zw1RwMVFqd5gcn6avZVOtstHf/.AkB3Js5lk2IoB98DIUFUOfuu",
+  "discordUser": "yNickFtw#0001",
+  "ageUser": "17",
+  "announcements": [
+    {
+      "nickname": "yNickFtw",
+      "ageUser": "17",
+      "discordUser": "yNickFtw#0001",
+      "userId": "643b3ec41163b54d51df1708",
+      "hourAvaibility": "19h",
+      "game": "Counter-Strike: Global Offensive",
+      "description": "Alguém para jogar comp, estou Prata V",
+      "createdAt": {
+        "$date": "2023-04-18T04:02:43.732Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-18T04:02:23.137Z"
+      },
+      "_id": {
+        "$oid": "643e1663dd7c9d5f5ba2d964"
+      },
+      "__v": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ce2d123200b419c2eb2a2"
+  },
+  "nickname": "ViniDorm",
+  "email": "vinidorm@gmail.com",
+  "password": "$2a$10$uJ953OnGL1XgrCQx2JUlFebpYR19FF1SW898HA0f4qVJNuayQ5Q0m",
+  "discordUser": "ViniDorm#1876",
+  "ageUser": "17",
+  "announcements": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ce40e23200b419c2eb2a5"
+  },
+  "nickname": "Gutin7",
+  "email": "luisgustavo@gmail.com",
+  "password": "$2a$10$GhBM5VhzDltq4y0P4MGK9OD7Jzxm8DM2Dnnidr32C1j4YPd6/dQEu",
+  "discordUser": "gutin7#0248",
+  "ageUser": "17",
+  "announcements": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d60d845f72a543f17656a"
+  },
+  "nickname": "MuriloGamer",
+  "email": "murilo@gmail.com",
+  "password": "$2a$10$FlGhVNKsi8ijtNUz3wQ6ye9oG13rqcJacj/zYagXKlbHhJWXU2LMG",
+  "discordUser": "MuriloGamer#0593",
+  "ageUser": "11",
+  "announcements": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643df7fec0cbe42878064080"
+  },
+  "nickname": "BotLockk",
+  "email": "botlockk@gmail.com",
+  "password": "$2a$10$svjb4kcpqkge/eEx.i3Az.bhadchUQOhYNdHp1xlSOEzAkRpkv0xy",
+  "discordUser": "Botlockk#5243",
+  "ageUser": "17",
+  "announcements": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e16b7dd7c9d5f5ba2d96c"
+  },
+  "nickname": "Vinicius",
+  "email": "viniciusoliveira@gmail.com",
+  "password": "$2a$10$jdW621puKaezVxU3eK/1t.Tin5Kon.tI7RwexFmK0Qm5aCel8GOTS",
+  "discordUser": "ViniDorm#0001",
+  "ageUser": "17",
+  "announcements": [
+    {
+      "nickname": "Vinicius",
+      "ageUser": "17",
+      "discordUser": "ViniDorm#0001",
+      "userId": "643e16b7dd7c9d5f5ba2d96c",
+      "hourAvaibility": "14h",
+      "game": "Valorant",
+      "description": "Bora um valorant ai rapaziada, sou main Jett",
+      "createdAt": {
+        "$date": "2023-04-18T16:08:58.588Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-18T16:08:07.004Z"
+      },
+      "_id": {
+        "$oid": "643ec09a12bdd273bbcce02f"
+      },
+      "__v": 0
+    }
+  ],
+  "__v": 1
+}]

@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "643e1663dd7c9d5f5ba2d964"
+  },
+  "nickname": "yNickFtw",
+  "ageUser": "17",
+  "discordUser": "yNickFtw#0001",
+  "userId": "643b3ec41163b54d51df1708",
+  "hourAvaibility": "19h",
+  "game": "Counter-Strike: Global Offensive",
+  "description": "Alguém para jogar comp, estou Prata V",
+  "createdAt": {
+    "$date": "2023-04-18T04:02:43.732Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-18T04:02:23.137Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ec09a12bdd273bbcce02f"
+  },
+  "nickname": "Vinicius",
+  "ageUser": "17",
+  "discordUser": "ViniDorm#0001",
+  "userId": "643e16b7dd7c9d5f5ba2d96c",
+  "hourAvaibility": "14h",
+  "game": "Valorant",
+  "description": "Bora um valorant ai rapaziada, sou main Jett",
+  "createdAt": {
+    "$date": "2023-04-18T16:08:58.588Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-18T16:08:07.004Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "643a4d245b4b366503e5880c"
+  },
+  "name": "League of Legends",
+  "imageUrl": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LoL_1200x1600-15ad6c981af8d98f50e833eac7843986",
+  "announcements": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ad47ed41dc8b1c3579066"
+  },
+  "name": "Tom Clancy´s Rainbow Six Extraction",
+  "imageUrl": "https://i.pinimg.com/564x/1c/99/9c/1c999cc69dcceec6595f982af5dc9555.jpg",
+  "announcements": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643b4c24002a373fc62ee087"
+  },
+  "name": "Playerunknown's Battlegrounds",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/pt/6/60/PlayerUnknown%E2%80%99s_Battlegrounds_cover.jpg",
+  "announcements": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e0975332436bc1b49d83c"
+  },
+  "name": "Tom Clancy´s Rainbow Six Siege",
+  "imageUrl": "https://cdn1.epicgames.com/offer/carnation/Carousel_BoxArt_1200x1600_1200x1600-6888b9d57181d8fcfb3472a7f70ecc49",
+  "announcements": [],
+  "createdAt": {
+    "$date": "2023-04-18T03:07:33.155Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e0aa0799d1f7ad7d78209"
+  },
+  "name": "Fortnite",
+  "imageUrl": "https://i.pinimg.com/564x/50/65/54/50655437ff81ed9c54b5515a67d730f6.jpg",
+  "announcements": [],
+  "createdAt": {
+    "$date": "2023-04-18T03:12:32.379Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e0b649c34b19528d97544"
+  },
+  "name": "Counter-Strike: Global Offensive",
+  "imageUrl": "https://vortexcultural.com.br/images/2012/10/Counter-Strike-Global-Offensive.jpg",
+  "announcements": [
+    {
+      "nickname": "yNickFtw",
+      "ageUser": "17",
+      "discordUser": "yNickFtw#0001",
+      "userId": "643b3ec41163b54d51df1708",
+      "hourAvaibility": "19h",
+      "game": "Counter-Strike: Global Offensive",
+      "description": "Alguém para jogar comp, estou Prata V",
+      "createdAt": {
+        "$date": "2023-04-18T04:02:43.732Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-18T04:02:23.137Z"
+      },
+      "_id": {
+        "$oid": "643e1663dd7c9d5f5ba2d964"
+      },
+      "__v": 0
+    },
+    {
+      "nickname": "Vinicius",
+      "ageUser": "17",
+      "discordUser": "ViniDorm#0001",
+      "userId": "643e16b7dd7c9d5f5ba2d96c",
+      "hourAvaibility": "14h",
+      "game": "Counter-Strike: Global Offensive",
+      "description": "Bora um valorant ai rapaziada, sou main Jett",
+      "createdAt": {
+        "$date": "2023-04-18T15:56:15.167Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-18T15:54:18.960Z"
+      },
+      "_id": {
+        "$oid": "643ebd9f311024aba43135d2"
+      },
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-18T03:15:48.045Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e18b2a8df8e1392fb4e5b"
+  },
+  "name": "Apex Legends",
+  "imageUrl": "https://i.pinimg.com/564x/1e/e6/ed/1ee6ed22e57a71e2b168586a99e78b81.jpg",
+  "announcements": [],
+  "createdAt": {
+    "$date": "2023-04-18T04:12:34.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e19e0a8df8e1392fb4e81"
+  },
+  "name": "Valorant",
+  "imageUrl": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S2_1200x1600-03324a2dfe6b0b9557ce96f23681c859",
+  "announcements": [
+    {
+      "nickname": "Vinicius",
+      "ageUser": "17",
+      "discordUser": "ViniDorm#0001",
+      "userId": "643e16b7dd7c9d5f5ba2d96c",
+      "hourAvaibility": "14h",
+      "game": "Valorant",
+      "description": "Bora um valorant ai rapaziada, sou main Jett",
+      "createdAt": {
+        "$date": "2023-04-18T15:58:04.490Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-18T15:57:19.591Z"
+      },
+      "_id": {
+        "$oid": "643ebe0c5961eed64a29e335"
+      },
+      "__v": 0
+    },
+    {
+      "nickname": "Vinicius",
+      "ageUser": "17",
+      "discordUser": "ViniDorm#0001",
+      "userId": "643e16b7dd7c9d5f5ba2d96c",
+      "hourAvaibility": "14h",
+      "game": "Valorant",
+      "description": "Bora um valorant ai rapaziada, sou main Jett",
+      "createdAt": {
+        "$date": "2023-04-18T16:08:58.588Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-18T16:08:07.004Z"
+      },
+      "_id": {
+        "$oid": "643ec09a12bdd273bbcce02f"
+      },
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-18T04:17:36.981Z"
+  },
+  "__v": 0
+}]

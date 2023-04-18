@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "643e08de89ce24e26c6298c8"
+  },
+  "admin": "Nicolas Freitas",
+  "password": "$2a$10$0Ts6059Fvp0Xh6UdJNqW0O3zg/qpNJotvR/NwshTJ9uc.NcaaYila",
+  "createdGames": [],
+  "createdAt": {
+    "$date": "2023-04-18T03:05:02.699Z"
+  },
+  "__v": 0
+}]
