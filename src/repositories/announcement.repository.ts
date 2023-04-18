@@ -42,7 +42,7 @@ class AnnouncementRepository {
   }
 
   getAllAnnouncements() {
-    return Announcement.findOne();
+    return Announcement.find();
   }
 
   checkIfUserIsOwner(userId: string, announcementId: string) {
